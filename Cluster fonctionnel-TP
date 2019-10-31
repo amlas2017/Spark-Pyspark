@@ -1,0 +1,3 @@
+- Cluster fonctionnel  ---->  docker run -it -p 8888:8888 jupyter/pyspark-notebook
+                       ---->  Pour lancer notebook, changer 127.0.0.1 par l'ip de la machine virtuelle qui héberge Spark.
+                       ---->  TP  --> https://github.com/pysr1/PlayingWithPyspark/blob/bokeh/Starting_pyspark.ipynb
